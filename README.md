@@ -35,7 +35,7 @@ This is the project prototype at competition stage
 
 The first project got second runner-up place in national competition
 
-<img src="Assets/3rd.png" align="center">
+<img src="Assets/3rd1.png" align="center">
 
 <img src="Assets/cert.jpg" width="250" align="center">
 
