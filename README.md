@@ -40,6 +40,7 @@ The first project got second runner-up place in national competition
 <img src="Assets/cert.jpg" width="250" align="center">
 
 [Back To The Top](#read-me-template)
+
 ---
 ## Author Info
 
