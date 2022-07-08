@@ -30,14 +30,15 @@ This project is using the arduino mega and esp101 to connect to the internet. Bl
 ## Documentation
 
 This is the project prototype at competition stage
-<p align="center">
-<img src="Assets/compestage.png">
-  </p>
+
+<img src="Assets/compestage.png" align="center">
+
 The first project got second runner-up place in national competition
-<p align="center">
-<img src="Assets/3rd.png">
-<img src="Assets/cert.jpg" width="250">
-</p>
+
+<img src="Assets/3rd.png" align="center">
+
+<img src="Assets/cert.jpg" width="250" align="center">
+
 [Back To The Top](#read-me-template)
 ---
 ## Author Info
