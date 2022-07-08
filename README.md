@@ -28,14 +28,11 @@ This project is using the arduino mega and esp101 to connect to the internet. Bl
 ---
 
 ## Documentation
-```html
-<img src="cover.png">
-$('img').mousedown(function (e) {
-  if(e.button == 2) { // right click
-    return false; // do nothing!
-  }
-}
-```
+This is the project prototype at competition stage
+![Project Image](compestage.png)
+The first project got second runner-up place in national competition
+![Project Image](3rd.png)
+![Project Image](cert.png)
 ## Author Info
 
 - instagram - [daffeydwilbert](https://www.instagram.com/daffeydwilbert/)
