@@ -2,7 +2,7 @@
 # Hydroponic-Smart-Controller
 This project help you to make a hydroponic farming system run automatic. This system can add some water, fertilizer, and it can turn on UV light, this system also has some button to switch the mode you are using, like outdoor or indoor. This Project is using the Arduino with the ESP01 to connect with the Wi-Fi. All of the data that collected from system liek water level, fertilizer concentration will be shown in Blynk application in android
 
-![Project Image](cover.png)
+![Project Image](Assets/cover.png)
 
 ---
 
@@ -29,10 +29,10 @@ This project is using the arduino mega and esp101 to connect to the internet. Bl
 
 ## Documentation
 This is the project prototype at competition stage
-![Project Image](compestage.png)
+![Project Image](Assets/compestage.png)
 The first project got second runner-up place in national competition
-![Project Image](3rd.png)
-![Project Image](cert.png)
+![Project Image](Assets/3rd.png)
+![Project Image](Assets/cert.jpg)
 ## Author Info
 
 - instagram - [daffeydwilbert](https://www.instagram.com/daffeydwilbert/)
