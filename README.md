@@ -36,7 +36,7 @@ The first project got second runner-up place in national competition
 
 ![Project Image](Assets/3rd.png)
 
-![Project Image](Assets/cert.jpg)
+![Project Image](Assets/cert.jpg | width = 250)
 
 ## Author Info
 
