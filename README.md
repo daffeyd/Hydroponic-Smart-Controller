@@ -10,6 +10,7 @@ This project help you to make a hydroponic farming system run automatic. This sy
 
 
 - [Description](#description)
+- [Documentation](#documentation)
 - [Author Info](#author-info)
 
 ---
@@ -26,7 +27,15 @@ This project is using the arduino mega and esp101 to connect to the internet. Bl
 
 ---
 
-
+## Documentation
+```html
+<img src="cover.png">
+$('img').mousedown(function (e) {
+  if(e.button == 2) { // right click
+    return false; // do nothing!
+  }
+}
+```
 ## Author Info
 
 - instagram - [daffeydwilbert](https://www.instagram.com/daffeydwilbert/)
