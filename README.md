@@ -28,6 +28,7 @@ This project is using the arduino mega and esp101 to connect to the internet. Bl
 ---
 
 ## Documentation
+<p align="center">
 This is the project prototype at competition stage
 
 ![Project Image](Assets/compestage.png)
@@ -36,8 +37,8 @@ The first project got second runner-up place in national competition
 
 ![Project Image](Assets/3rd.png)
 
-![test image size]<img src="Assets/cert.jpg" width="250"> 
-
+<img src="Assets/cert.jpg" width="250"> 
+</p>
 ## Author Info
 
 - instagram - [daffeydwilbert](https://www.instagram.com/daffeydwilbert/)
