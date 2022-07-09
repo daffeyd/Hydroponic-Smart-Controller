@@ -31,13 +31,13 @@ This project is using the arduino mega and esp101 to connect to the internet. Bl
 
 This is the project prototype at competition stage
 
-<img src="Assets/compestage.png" align="center">
+<img src="Assets/compestage.png">
 
 The first project got second runner-up place in national competition
 
-<img src="Assets/3rd1.png" align="center">
+<img src="Assets/3rd1.png">
 
-<img src="Assets/cert.jpg" width="250" align="center">
+<img src="Assets/cert.jpg" width="250">
 
 [Back To The Top](#hydroponic-smart-controller)
 
